@@ -6,6 +6,8 @@ MODULE(time)
 MODULE(console)
 MODULE(string)
 
+MODULE(ctk)
+
 #ifdef DOTNET_MODULE
 MODULE(dotnet)
 #endif
